@@ -44,13 +44,14 @@ The MQLITE dashboard is divided into key analytical views:
 * **Customer Growth Timeline:** Line chart tracking customer acquisition and retention over the years (2015-2025).
 
 **Dashboard Visual:**
-![MQLITE Customer Segmentation Dashboard](final final dashboard.JPG)
+**![MQLITE Customer Segmentation Dashboard](final final dashboard.JPG)**
+*(Note: Please ensure the image file name in your GitHub repository is **exactly** `final final dashboard.JPG`, including spaces and capitalization.)*
 
 ## 💡 Strategic Recommendations
 
-1.  **Retention:** Prioritize the 40% Loyal segment with premium services and dedicated relationship managers.
-2.  **Acquisition:** Leverage insights from the **Professional Profile** to launch targeted digital campaigns to high-potential professional groups.
-3.  **Risk Management:** Analyze the reasons for the historical dip in customer growth (2019) to prevent similar trends.
+1.  **Retention:** Prioritize the 40% Loyal segment with premium services and dedicated relationship managers.
+2.  **Acquisition:** Leverage insights from the **Professional Profile** to launch targeted digital campaigns to high-potential professional groups.
+3.  **Risk Management:** Analyze the reasons for the historical dip in customer growth (2019) to prevent similar trends.
 
 ---
 **Author:** EniOlaNimi
