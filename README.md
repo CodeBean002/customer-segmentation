@@ -44,7 +44,7 @@ The MQLITE dashboard is divided into key analytical views:
 * **Customer Growth Timeline:** Line chart tracking customer acquisition and retention over the years (2015-2025).
 
 **Dashboard Visual:**
-![MQLITE Customer Segmentation Dashboard view](final final dashboard.JPG)
+![MQLITE Customer Segmentation Dashboard view](dashboard2.JPG)
 
 
 ## 💡 Strategic Recommendations
